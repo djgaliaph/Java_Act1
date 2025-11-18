@@ -10,6 +10,7 @@ your program. Refer to the sample program output given below.
 
 
 ** FIRST SAMPLE OUTPUT:**
+
                 Enter array size:10
                 Enter elements: 2 8 9 0 78 6 5 4 1 11
                 Enter search element: 9
